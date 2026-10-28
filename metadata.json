@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistem Administrasi Guru \u0026 Kurikulum Merdeka/KBC",
+  "description": "Sistem Terpadu Administrasi Guru, Manajemen Sekolah, dan Generator AI Perangkat Ajar Kurikulum Merdeka \u0026 Kurikulum Berbasis Cinta (KBC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
